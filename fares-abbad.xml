@@ -1,0 +1,1437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>Fares Abbad</title>
+	<atom:link href="https://rss.qurancentral.com/fares-abbad.rss" rel="self" type="application/rss+xml" />
+	<link>https://qurancentral.com/audio/fares-abbad/</link>
+	<description>Fares Abbad was born in Sanaa, Yemen on April,12th, 1980, Fares Abd Rabbuh Mohammed Abbad is a Yemeni Qur’an reciter par excellence.
+
+His interest and inclination towards the Holy Quran started since he was a little boy. Sheikh Fadl Morad taught and helped him master the technique of reciting the Quran. He sought inspiration from and looked up to the gems of the Islamic world, namely, Abdul Basit Abdul Samad and Mohamed Al Mohisni.
+
+He started as an Imam of Tarawih prayers, in Bilal Ibn Rabah Mosque in 1994, and maintained himself in that designation for 7 years.In 2004, Sheikh Fares Abbad was the imam of Sheikh Abdel Razek Afifi Mosque, Riyadh, Saudi Arabia.He also led the prayers as an Imam in Ali bin Abi Talib mosque for two years since 2006, which is located in the east of Saudi Arabia before moving to Ajman in the United Arab Emirates where he currently resides.
+
+His fame and adulation started gaining prominence through his audio recordings, most notably, the whole Quran recited on 2003, which was financed by the Qadisiya Records company. He put in his heartfelt support in the publication of his performances. His much publicised and soulful poem “Nounia Al Qahtani”, that is composed of eight hundred verses, was brought to reality in his own melodious and mesmerizing baritone.  He has also recorded the Introduction of Ibn Al Qayem (the Paradise Description), ”The day 2 sides reminders”, “The possession spell”, and “The magic spell”.
+
+He’s currently getting ready to bring forth “The fortress of Muslim” with a new approach and perspective.
+
+His melodious voice resonates on Almajd Channel TV, where he’s currently working with stupendous success.</description>
+	<lastBuildDate>Sat, 02 Nov 2024 08:25:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>Blubrry PowerPress/11.10.3</generator>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<podcast:locked>yes</podcast:locked>
+	<itunes:summary>Audio Podcast Publishers</itunes:summary>
+	<itunes:author>Muslim Central</itunes:author>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:image href="https://artwork.qurancentral.com/fares-abbad.jpg" />
+	<itunes:owner>
+		<itunes:name>Muslim Central</itunes:name>
+		<itunes:email>podcasts@muslimcentral.com</itunes:email>
+	</itunes:owner>
+	<copyright>Copyright &#xA9; Quran Central</copyright>
+	<podcast:license>Copyright &#xA9; Quran Central</podcast:license>
+	<podcast:medium>podcast</podcast:medium>
+	<itunes:subtitle>Audio Podcast Publishers</itunes:subtitle>
+	<image>
+		<title>Fares Abbad</title>
+		<url>https://artwork.qurancentral.com/fares-abbad.jpg</url>
+		<link>https://qurancentral.com/audio/fares-abbad/</link>
+	</image>
+	<itunes:category text="Religion &amp; Spirituality">
+		<itunes:category text="Islam" />
+	</itunes:category>
+	<googleplay:category text="Religion &amp; Spirituality"/>
+	<itunes:category text="Religion &amp; Spirituality">
+		<itunes:category text="Spirituality" />
+	</itunes:category>
+	<itunes:category text="History" />
+	<podcast:updateFrequency rrule="FREQ=MONTHLY;INTERVAL=1">Monthly</podcast:updateFrequency>
+	<rawvoice:frequency>Monthly</rawvoice:frequency>
+	<rawvoice:donate href="http://donate.muslimcentral.com/">Donate to help cover our running costs and future projects</rawvoice:donate>
+	<podcast:funding url="http://donate.muslimcentral.com/">Donate to help cover our running costs and future projects</podcast:funding>
+	<podcast:podping usesPodping="true" />
+	<podcast:guid>b481a5d5-7ed8-5edc-8a19-5a618a57644b</podcast:guid>
+	<rawvoice:subscribe feed="https://rss.qurancentral.com/fares-abbad.rss" itunes="https://podcasts.apple.com/podcast/fares-abbad-quran/id1020157644" spotify="https://open.spotify.com/show/2pBJvb4cVBp1EOcwRcCOt1"></rawvoice:subscribe>
+	<item>
+		<title>001 AlFatiha</title>
+		<link>https://qurancentral.com/fares-abbad-001-al-fatiha/</link>
+		<pubDate>Tue, 31 Dec 2013 23:55:30 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86118</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-001.mp3" length="1059985" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>44</itunes:duration>
+	</item>
+	<item>
+		<title>002 AlBaqara</title>
+		<link>https://qurancentral.com/fares-abbad-002-al-baqara/</link>
+		<pubDate>Tue, 31 Dec 2013 23:54:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86119</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-002.mp3" length="108139416" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:52:54</itunes:duration>
+	</item>
+	<item>
+		<title>003 AalEImran</title>
+		<link>https://qurancentral.com/fares-abbad-003-aal-e-imran/</link>
+		<pubDate>Tue, 31 Dec 2013 23:53:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86120</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-003.mp3" length="89241435" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:01:58</itunes:duration>
+	</item>
+	<item>
+		<title>004 AnNisa</title>
+		<link>https://qurancentral.com/fares-abbad-004-al-maeda/</link>
+		<pubDate>Tue, 31 Dec 2013 23:52:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86121</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-004.mp3" length="91466433" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:03:31</itunes:duration>
+	</item>
+	<item>
+		<title>005 AlMaidah</title>
+		<link>https://qurancentral.com/fares-abbad-005-nisa/</link>
+		<pubDate>Tue, 31 Dec 2013 23:51:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86122</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-005.mp3" length="70964910" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>49:17</itunes:duration>
+	</item>
+	<item>
+		<title>006 AlAnaam</title>
+		<link>https://qurancentral.com/fares-abbad-006-al-anaam/</link>
+		<pubDate>Tue, 31 Dec 2013 23:50:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86123</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-006.mp3" length="74516518" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>51:45</itunes:duration>
+	</item>
+	<item>
+		<title>007 AlAraf</title>
+		<link>https://qurancentral.com/fares-abbad-007-al-araf/</link>
+		<pubDate>Tue, 31 Dec 2013 23:49:53 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86124</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-007.mp3" length="83672330" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>58:06</itunes:duration>
+	</item>
+	<item>
+		<title>008 AlAnfal</title>
+		<link>https://qurancentral.com/fares-abbad-008-al-anfal/</link>
+		<pubDate>Tue, 31 Dec 2013 23:48:06 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86125</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-008.mp3" length="31489083" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>21:52</itunes:duration>
+	</item>
+	<item>
+		<title>009 AtTawba</title>
+		<link>https://qurancentral.com/fares-abbad-009-tawba/</link>
+		<pubDate>Tue, 31 Dec 2013 23:47:18 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86126</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-009.mp3" length="63055450" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>43:47</itunes:duration>
+	</item>
+	<item>
+		<title>010 Yunus</title>
+		<link>https://qurancentral.com/fares-abbad-010-yunus/</link>
+		<pubDate>Tue, 31 Dec 2013 23:46:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86127</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-010.mp3" length="45155715" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>31:21</itunes:duration>
+	</item>
+	<item>
+		<title>011 Hud</title>
+		<link>https://qurancentral.com/fares-abbad-011-hud/</link>
+		<pubDate>Tue, 31 Dec 2013 23:45:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86128</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-011.mp3" length="47299215" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>32:51</itunes:duration>
+	</item>
+	<item>
+		<title>012 Yusuf</title>
+		<link>https://qurancentral.com/fares-abbad-012-yusuf/</link>
+		<pubDate>Tue, 31 Dec 2013 23:44:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86129</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-012.mp3" length="46642187" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>32:23</itunes:duration>
+	</item>
+	<item>
+		<title>013 ArRad</title>
+		<link>https://qurancentral.com/fares-abbad-013-ar-rad/</link>
+		<pubDate>Tue, 31 Dec 2013 23:43:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86130</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-013.mp3" length="21538934" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>14:57</itunes:duration>
+	</item>
+	<item>
+		<title>014 Ibrahim</title>
+		<link>https://qurancentral.com/fares-abbad-014-ibrahim/</link>
+		<pubDate>Tue, 31 Dec 2013 23:42:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86131</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-014.mp3" length="22545173" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>15:39</itunes:duration>
+	</item>
+	<item>
+		<title>015 AlHijr</title>
+		<link>https://qurancentral.com/fares-abbad-015-al-hijr/</link>
+		<pubDate>Tue, 31 Dec 2013 23:41:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86132</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-015.mp3" length="19074439" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>13:15</itunes:duration>
+	</item>
+	<item>
+		<title>016 AnNahl</title>
+		<link>https://qurancentral.com/fares-abbad-016-nahl/</link>
+		<pubDate>Tue, 31 Dec 2013 23:40:47 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86133</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-016.mp3" length="47181986" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>32:46</itunes:duration>
+	</item>
+	<item>
+		<title>017 AlIsra</title>
+		<link>https://qurancentral.com/fares-abbad-017-al-isra/</link>
+		<pubDate>Tue, 31 Dec 2013 23:39:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86134</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-017.mp3" length="39084444" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>27:08</itunes:duration>
+	</item>
+	<item>
+		<title>018 AlKahf</title>
+		<link>https://qurancentral.com/fares-abbad-018-al-kahf/</link>
+		<pubDate>Tue, 31 Dec 2013 23:38:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86135</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-018.mp3" length="39088833" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>27:09</itunes:duration>
+	</item>
+	<item>
+		<title>019 Maryam</title>
+		<link>https://qurancentral.com/fares-abbad-019-maryam/</link>
+		<pubDate>Tue, 31 Dec 2013 23:37:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86136</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-019.mp3" length="26194581" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>18:11</itunes:duration>
+	</item>
+	<item>
+		<title>020 TaHa</title>
+		<link>https://qurancentral.com/fares-abbad-020-ta-ha/</link>
+		<pubDate>Tue, 31 Dec 2013 23:36:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86137</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-020.mp3" length="34460767" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>23:56</itunes:duration>
+	</item>
+	<item>
+		<title>021 AlAnbiya</title>
+		<link>https://qurancentral.com/fares-abbad-021-al-anbiya/</link>
+		<pubDate>Tue, 31 Dec 2013 23:35:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86138</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-021.mp3" length="32658326" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>22:41</itunes:duration>
+	</item>
+	<item>
+		<title>022 AlHajj</title>
+		<link>https://qurancentral.com/fares-abbad-022-al-hajj/</link>
+		<pubDate>Tue, 31 Dec 2013 23:34:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86139</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-022.mp3" length="35001819" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>24:18</itunes:duration>
+	</item>
+	<item>
+		<title>023 AlMumenoon</title>
+		<link>https://qurancentral.com/fares-abbad-023-al-mumenoon/</link>
+		<pubDate>Tue, 31 Dec 2013 23:33:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86140</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-023.mp3" length="30212015" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>20:59</itunes:duration>
+	</item>
+	<item>
+		<title>024 AnNoor</title>
+		<link>https://qurancentral.com/fares-abbad-024-noor/</link>
+		<pubDate>Tue, 31 Dec 2013 23:32:30 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86141</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-024.mp3" length="35583618" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>24:43</itunes:duration>
+	</item>
+	<item>
+		<title>025 AlFurqan</title>
+		<link>https://qurancentral.com/fares-abbad-025-al-furqan/</link>
+		<pubDate>Tue, 31 Dec 2013 23:31:42 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86142</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-025.mp3" length="23715044" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>16:28</itunes:duration>
+	</item>
+	<item>
+		<title>026 AshShuara</title>
+		<link>https://qurancentral.com/fares-abbad-026-ash-shuara/</link>
+		<pubDate>Tue, 31 Dec 2013 23:30:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86143</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-026.mp3" length="39453092" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>27:24</itunes:duration>
+	</item>
+	<item>
+		<title>027 AnNaml</title>
+		<link>https://qurancentral.com/fares-abbad-027-naml/</link>
+		<pubDate>Tue, 31 Dec 2013 23:29:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86144</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-027.mp3" length="32482152" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>22:33</itunes:duration>
+	</item>
+	<item>
+		<title>028 AlQasas</title>
+		<link>https://qurancentral.com/fares-abbad-028-al-qasas/</link>
+		<pubDate>Tue, 31 Dec 2013 23:28:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86145</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-028.mp3" length="38079464" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>26:27</itunes:duration>
+	</item>
+	<item>
+		<title>029 AlAnkaboot</title>
+		<link>https://qurancentral.com/fares-abbad-029-al-ankaboot/</link>
+		<pubDate>Tue, 31 Dec 2013 23:27:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86146</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-029.mp3" length="26558843" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>18:27</itunes:duration>
+	</item>
+	<item>
+		<title>030 ArRoom</title>
+		<link>https://qurancentral.com/fares-abbad-030-ar-room/</link>
+		<pubDate>Tue, 31 Dec 2013 23:26:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86147</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-030.mp3" length="22808487" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>15:50</itunes:duration>
+	</item>
+	<item>
+		<title>031 Luqman</title>
+		<link>https://qurancentral.com/fares-abbad-031-luqman/</link>
+		<pubDate>Tue, 31 Dec 2013 23:25:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86148</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-031.mp3" length="14359231" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>9:58</itunes:duration>
+	</item>
+	<item>
+		<title>032 AsSajda</title>
+		<link>https://qurancentral.com/fares-abbad-032-sajda/</link>
+		<pubDate>Tue, 31 Dec 2013 23:24:15 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86149</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-032.mp3" length="10496038" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>7:17</itunes:duration>
+	</item>
+	<item>
+		<title>033 AlAhzab</title>
+		<link>https://qurancentral.com/fares-abbad-033-al-ahzab/</link>
+		<pubDate>Tue, 31 Dec 2013 23:23:27 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86150</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-033.mp3" length="37086393" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>25:45</itunes:duration>
+	</item>
+	<item>
+		<title>034 Saba</title>
+		<link>https://qurancentral.com/fares-abbad-034-saba/</link>
+		<pubDate>Tue, 31 Dec 2013 23:22:40 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86151</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-034.mp3" length="23543880" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>16:21</itunes:duration>
+	</item>
+	<item>
+		<title>035 Fatir</title>
+		<link>https://qurancentral.com/fares-abbad-035-fatir/</link>
+		<pubDate>Tue, 31 Dec 2013 23:21:52 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86152</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-035.mp3" length="20173459" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>14:00</itunes:duration>
+	</item>
+	<item>
+		<title>036 YaSeen</title>
+		<link>https://qurancentral.com/fares-abbad-036-ya-seen/</link>
+		<pubDate>Tue, 31 Dec 2013 23:20:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86153</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-036.mp3" length="19691347" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>13:40</itunes:duration>
+	</item>
+	<item>
+		<title>037 AsSaaffat</title>
+		<link>https://qurancentral.com/fares-abbad-037-saaffat/</link>
+		<pubDate>Tue, 31 Dec 2013 23:19:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86154</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-037.mp3" length="24874883" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>17:16</itunes:duration>
+	</item>
+	<item>
+		<title>038 Sad</title>
+		<link>https://qurancentral.com/fares-abbad-038-sad/</link>
+		<pubDate>Tue, 31 Dec 2013 23:18:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86155</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-038.mp3" length="18973494" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>13:10</itunes:duration>
+	</item>
+	<item>
+		<title>039 AzZumar</title>
+		<link>https://qurancentral.com/fares-abbad-039-az-zumar/</link>
+		<pubDate>Tue, 31 Dec 2013 23:17:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86156</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-039.mp3" length="13734267" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>20:27</itunes:duration>
+	</item>
+	<item>
+		<title>040 Ghafir</title>
+		<link>https://qurancentral.com/fares-abbad-040-ghafir/</link>
+		<pubDate>Tue, 31 Dec 2013 23:16:08 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86157</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-040.mp3" length="29586953" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>20:33</itunes:duration>
+	</item>
+	<item>
+		<title>041 Fussilat</title>
+		<link>https://qurancentral.com/fares-abbad-041-fussilat/</link>
+		<pubDate>Tue, 31 Dec 2013 23:15:21 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86158</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-041.mp3" length="20498219" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>14:14</itunes:duration>
+	</item>
+	<item>
+		<title>042 AshShura</title>
+		<link>https://qurancentral.com/fares-abbad-042-ash-shura/</link>
+		<pubDate>Tue, 31 Dec 2013 23:14:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86159</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-042.mp3" length="20817333" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>14:27</itunes:duration>
+	</item>
+	<item>
+		<title>043 AzZukhruf</title>
+		<link>https://qurancentral.com/fares-abbad-043-az-zukhruf/</link>
+		<pubDate>Tue, 31 Dec 2013 23:13:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86160</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-043.mp3" length="21676868" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>15:03</itunes:duration>
+	</item>
+	<item>
+		<title>044 AdDukhan</title>
+		<link>https://qurancentral.com/fares-abbad-044-ad-dukhan/</link>
+		<pubDate>Tue, 31 Dec 2013 23:12:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86161</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-044.mp3" length="9251567" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>6:25</itunes:duration>
+	</item>
+	<item>
+		<title>045 AlJathiya</title>
+		<link>https://qurancentral.com/fares-abbad-045-al-jathiya/</link>
+		<pubDate>Tue, 31 Dec 2013 23:11:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86162</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-045.mp3" length="11610739" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>8:04</itunes:duration>
+	</item>
+	<item>
+		<title>046 AlAhqaf</title>
+		<link>https://qurancentral.com/fares-abbad-046-al-ahqaf/</link>
+		<pubDate>Tue, 31 Dec 2013 23:10:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86163</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-046.mp3" length="15092126" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>10:29</itunes:duration>
+	</item>
+	<item>
+		<title>047 Muhammad</title>
+		<link>https://qurancentral.com/fares-abbad-047-muhammad/</link>
+		<pubDate>Tue, 31 Dec 2013 23:09:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86164</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-047.mp3" length="13230745" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>9:11</itunes:duration>
+	</item>
+	<item>
+		<title>048 AlFath</title>
+		<link>https://qurancentral.com/fares-abbad-048-al-fath/</link>
+		<pubDate>Tue, 31 Dec 2013 23:08:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86165</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-048.mp3" length="13033884" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>9:03</itunes:duration>
+	</item>
+	<item>
+		<title>049 AlHujraat</title>
+		<link>https://qurancentral.com/fares-abbad-049-al-hujraat/</link>
+		<pubDate>Tue, 31 Dec 2013 23:07:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86166</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-049.mp3" length="8415859" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>5:51</itunes:duration>
+	</item>
+	<item>
+		<title>050 Qaf</title>
+		<link>https://qurancentral.com/fares-abbad-050-qaf/</link>
+		<pubDate>Tue, 31 Dec 2013 23:06:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86167</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-050.mp3" length="9130556" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>6:20</itunes:duration>
+	</item>
+	<item>
+		<title>051 AdhDhariyat</title>
+		<link>https://qurancentral.com/fares-abbad-051-adh-dhariyat/</link>
+		<pubDate>Tue, 31 Dec 2013 23:05:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86168</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-051.mp3" length="9760020" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>6:47</itunes:duration>
+	</item>
+	<item>
+		<title>052 AtTur</title>
+		<link>https://qurancentral.com/fares-abbad-052-tur/</link>
+		<pubDate>Tue, 31 Dec 2013 23:04:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86169</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-052.mp3" length="8323064" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>5:47</itunes:duration>
+	</item>
+	<item>
+		<title>053 AnNajm</title>
+		<link>https://qurancentral.com/fares-abbad-053-najm/</link>
+		<pubDate>Tue, 31 Dec 2013 23:03:47 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86170</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-053.mp3" length="8808944" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>6:07</itunes:duration>
+	</item>
+	<item>
+		<title>054 AlQamar</title>
+		<link>https://qurancentral.com/fares-abbad-054-al-qamar/</link>
+		<pubDate>Tue, 31 Dec 2013 23:02:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86171</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-054.mp3" length="9230249" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>6:25</itunes:duration>
+	</item>
+	<item>
+		<title>055 ArRahman</title>
+		<link>https://qurancentral.com/fares-abbad-055-ar-rahman/</link>
+		<pubDate>Tue, 31 Dec 2013 23:01:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86172</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-055.mp3" length="11719198" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>8:08</itunes:duration>
+	</item>
+	<item>
+		<title>056 AlWaqia</title>
+		<link>https://qurancentral.com/fares-abbad-056-al-waqia/</link>
+		<pubDate>Tue, 31 Dec 2013 22:59:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86173</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-056.mp3" length="11497886" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>7:59</itunes:duration>
+	</item>
+	<item>
+		<title>057 AlHadid</title>
+		<link>https://qurancentral.com/fares-abbad-057-al-hadid/</link>
+		<pubDate>Tue, 31 Dec 2013 22:58:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86174</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-057.mp3" length="14074605" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>9:46</itunes:duration>
+	</item>
+	<item>
+		<title>058 AlMujadila</title>
+		<link>https://qurancentral.com/fares-abbad-058-al-mujadila/</link>
+		<pubDate>Tue, 31 Dec 2013 22:57:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86175</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-058.mp3" length="11772492" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>8:10</itunes:duration>
+	</item>
+	<item>
+		<title>059 AlHashr</title>
+		<link>https://qurancentral.com/fares-abbad-059-al-hashr/</link>
+		<pubDate>Tue, 31 Dec 2013 22:56:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86176</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-059.mp3" length="11585031" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>8:03</itunes:duration>
+	</item>
+	<item>
+		<title>060 AlMumtahina</title>
+		<link>https://qurancentral.com/fares-abbad-060-al-mumtahina/</link>
+		<pubDate>Tue, 31 Dec 2013 22:55:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86177</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-060.mp3" length="8825254" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>6:08</itunes:duration>
+	</item>
+	<item>
+		<title>061 AsSaff</title>
+		<link>https://qurancentral.com/fares-abbad-061-saff/</link>
+		<pubDate>Tue, 31 Dec 2013 22:54:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86178</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-061.mp3" length="5540085" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>3:51</itunes:duration>
+	</item>
+	<item>
+		<title>062 AlJumua</title>
+		<link>https://qurancentral.com/fares-abbad-062-al-jumua/</link>
+		<pubDate>Tue, 31 Dec 2013 22:53:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86179</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-062.mp3" length="4720051" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>3:17</itunes:duration>
+	</item>
+	<item>
+		<title>063 AlMunafiqoon</title>
+		<link>https://qurancentral.com/fares-abbad-063-al-munafiqoon/</link>
+		<pubDate>Tue, 31 Dec 2013 22:52:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86180</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-063.mp3" length="5052339" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>3:30</itunes:duration>
+	</item>
+	<item>
+		<title>064 AtTaghabun</title>
+		<link>https://qurancentral.com/fares-abbad-064-taghabun/</link>
+		<pubDate>Tue, 31 Dec 2013 22:51:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86181</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-064.mp3" length="6469216" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>4:29</itunes:duration>
+	</item>
+	<item>
+		<title>065 AtTalaq</title>
+		<link>https://qurancentral.com/fares-abbad-065-talaq/</link>
+		<pubDate>Tue, 31 Dec 2013 22:50:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86182</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-065.mp3" length="7219029" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>5:01</itunes:duration>
+	</item>
+	<item>
+		<title>066 AtTahrim</title>
+		<link>https://qurancentral.com/fares-abbad-066-tahrim/</link>
+		<pubDate>Tue, 31 Dec 2013 22:49:25 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86183</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-066.mp3" length="6519995" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>4:32</itunes:duration>
+	</item>
+	<item>
+		<title>067 AlMulk</title>
+		<link>https://qurancentral.com/fares-abbad-067-al-mulk/</link>
+		<pubDate>Tue, 31 Dec 2013 22:48:37 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86184</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-067.mp3" length="8272284" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>5:45</itunes:duration>
+	</item>
+	<item>
+		<title>068 AlQalam</title>
+		<link>https://qurancentral.com/fares-abbad-068-al-qalam/</link>
+		<pubDate>Tue, 31 Dec 2013 22:47:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86185</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-068.mp3" length="8128090" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>5:39</itunes:duration>
+	</item>
+	<item>
+		<title>069 AlHaaqqa</title>
+		<link>https://qurancentral.com/fares-abbad-069-al-haaqqa/</link>
+		<pubDate>Tue, 31 Dec 2013 22:46:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86186</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-069.mp3" length="7193327" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>5:00</itunes:duration>
+	</item>
+	<item>
+		<title>070 AlMaarij</title>
+		<link>https://qurancentral.com/fares-abbad-070-al-maarij/</link>
+		<pubDate>Tue, 31 Dec 2013 22:45:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86187</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-070.mp3" length="5954496" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>4:08</itunes:duration>
+	</item>
+	<item>
+		<title>071 Nooh</title>
+		<link>https://qurancentral.com/fares-abbad-071-nooh/</link>
+		<pubDate>Tue, 31 Dec 2013 22:44:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86188</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-071.mp3" length="5704337" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>3:58</itunes:duration>
+	</item>
+	<item>
+		<title>072 AlJinn</title>
+		<link>https://qurancentral.com/fares-abbad-072-al-jinn/</link>
+		<pubDate>Tue, 31 Dec 2013 22:43:37 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86189</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-072.mp3" length="6698668" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>4:39</itunes:duration>
+	</item>
+	<item>
+		<title>073 AlMuzzammil</title>
+		<link>https://qurancentral.com/fares-abbad-073-al-muzzammil/</link>
+		<pubDate>Tue, 31 Dec 2013 22:42:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86190</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-073.mp3" length="5185248" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>3:36</itunes:duration>
+	</item>
+	<item>
+		<title>074 AlMuddaththir</title>
+		<link>https://qurancentral.com/fares-abbad-074-al-muddaththir/</link>
+		<pubDate>Tue, 31 Dec 2013 22:41:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86191</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-074.mp3" length="6539440" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>4:32</itunes:duration>
+	</item>
+	<item>
+		<title>075 AlQiyama</title>
+		<link>https://qurancentral.com/fares-abbad-075-al-qiyama/</link>
+		<pubDate>Tue, 31 Dec 2013 22:40:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86192</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-075.mp3" length="4301258" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>2:59</itunes:duration>
+	</item>
+	<item>
+		<title>076 AlInsan</title>
+		<link>https://qurancentral.com/fares-abbad-076-al-insan/</link>
+		<pubDate>Tue, 31 Dec 2013 22:39:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86193</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-076.mp3" length="6676727" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>4:38</itunes:duration>
+	</item>
+	<item>
+		<title>077 AlMursalat</title>
+		<link>https://qurancentral.com/fares-abbad-077-al-mursalat/</link>
+		<pubDate>Tue, 31 Dec 2013 22:38:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86194</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-077.mp3" length="5250447" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>3:39</itunes:duration>
+	</item>
+	<item>
+		<title>078 AnNaba</title>
+		<link>https://qurancentral.com/fares-abbad-078-naba/</link>
+		<pubDate>Tue, 31 Dec 2013 22:37:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86195</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-078.mp3" length="5120663" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>3:33</itunes:duration>
+	</item>
+	<item>
+		<title>079 AnNaziat</title>
+		<link>https://qurancentral.com/fares-abbad-079-naziat/</link>
+		<pubDate>Tue, 31 Dec 2013 22:36:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86196</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-079.mp3" length="4974590" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>3:27</itunes:duration>
+	</item>
+	<item>
+		<title>080 Abasa</title>
+		<link>https://qurancentral.com/fares-abbad-080-abasa/</link>
+		<pubDate>Tue, 31 Dec 2013 22:35:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86197</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-080.mp3" length="4205955" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>2:55</itunes:duration>
+	</item>
+	<item>
+		<title>081 AtTakwir</title>
+		<link>https://qurancentral.com/fares-abbad-081-takwir/</link>
+		<pubDate>Tue, 31 Dec 2013 22:34:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86198</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-081.mp3" length="2900050" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>2:01</itunes:duration>
+	</item>
+	<item>
+		<title>082 AlInfitar</title>
+		<link>https://qurancentral.com/fares-abbad-082-al-infitar/</link>
+		<pubDate>Tue, 31 Dec 2013 22:33:37 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86199</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-082.mp3" length="2452418" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:42</itunes:duration>
+	</item>
+	<item>
+		<title>083 AlMutaffifin</title>
+		<link>https://qurancentral.com/fares-abbad-083-al-mutaffifin/</link>
+		<pubDate>Tue, 31 Dec 2013 22:32:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86200</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-083.mp3" length="4989018" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>3:28</itunes:duration>
+	</item>
+	<item>
+		<title>084 AlInshiqaq</title>
+		<link>https://qurancentral.com/fares-abbad-084-al-inshiqaq/</link>
+		<pubDate>Tue, 31 Dec 2013 22:31:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86201</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-084.mp3" length="2974660" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>2:04</itunes:duration>
+	</item>
+	<item>
+		<title>085 AlBurooj</title>
+		<link>https://qurancentral.com/fares-abbad-085-al-burooj/</link>
+		<pubDate>Tue, 31 Dec 2013 22:30:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86202</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-085.mp3" length="2977163" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>2:04</itunes:duration>
+	</item>
+	<item>
+		<title>086 AtTariq</title>
+		<link>https://qurancentral.com/fares-abbad-086-tariq/</link>
+		<pubDate>Tue, 31 Dec 2013 22:29:25 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86203</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-086.mp3" length="1914500" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:20</itunes:duration>
+	</item>
+	<item>
+		<title>087 AlAla</title>
+		<link>https://qurancentral.com/fares-abbad-087-al-ala/</link>
+		<pubDate>Tue, 31 Dec 2013 22:28:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86204</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-087.mp3" length="1986594" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:23</itunes:duration>
+	</item>
+	<item>
+		<title>088 AlGhashiya</title>
+		<link>https://qurancentral.com/fares-abbad-088-al-ghashiya/</link>
+		<pubDate>Tue, 31 Dec 2013 22:27:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86205</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-088.mp3" length="2669341" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:51</itunes:duration>
+	</item>
+	<item>
+		<title>089 AlFajr</title>
+		<link>https://qurancentral.com/fares-abbad-089-al-fajr/</link>
+		<pubDate>Tue, 31 Dec 2013 22:26:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86206</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-089.mp3" length="4050479" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>2:49</itunes:duration>
+	</item>
+	<item>
+		<title>090 AlBalad</title>
+		<link>https://qurancentral.com/fares-abbad-090-al-balad/</link>
+		<pubDate>Tue, 31 Dec 2013 22:25:15 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86207</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-090.mp3" length="2157753" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:30</itunes:duration>
+	</item>
+	<item>
+		<title>091 AshShams</title>
+		<link>https://qurancentral.com/fares-abbad-091-ash-shams/</link>
+		<pubDate>Tue, 31 Dec 2013 22:24:27 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86208</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-091.mp3" length="1613572" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:07</itunes:duration>
+	</item>
+	<item>
+		<title>092 AlLail</title>
+		<link>https://qurancentral.com/fares-abbad-092-al-lail/</link>
+		<pubDate>Tue, 31 Dec 2013 22:23:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86209</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-092.mp3" length="2087533" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:27</itunes:duration>
+	</item>
+	<item>
+		<title>093 AdDhuha</title>
+		<link>https://qurancentral.com/fares-abbad-093-ad-dhuha/</link>
+		<pubDate>Tue, 31 Dec 2013 22:22:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86210</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-093.mp3" length="1202298" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>50</itunes:duration>
+	</item>
+	<item>
+		<title>094 AlInshirah</title>
+		<link>https://qurancentral.com/fares-abbad-094-al-inshirah/</link>
+		<pubDate>Tue, 31 Dec 2013 22:21:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86211</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-094.mp3" length="750281" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>31</itunes:duration>
+	</item>
+	<item>
+		<title>095 AtTin</title>
+		<link>https://qurancentral.com/fares-abbad-095-tin/</link>
+		<pubDate>Tue, 31 Dec 2013 22:20:15 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86212</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-095.mp3" length="1066875" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>44</itunes:duration>
+	</item>
+	<item>
+		<title>096 AlAlaq</title>
+		<link>https://qurancentral.com/fares-abbad-096-al-alaq/</link>
+		<pubDate>Tue, 31 Dec 2013 22:19:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86213</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-096.mp3" length="1898825" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:19</itunes:duration>
+	</item>
+	<item>
+		<title>097 AlQadr</title>
+		<link>https://qurancentral.com/fares-abbad-097-al-qadr/</link>
+		<pubDate>Tue, 31 Dec 2013 22:18:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86214</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-097.mp3" length="860614" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>36</itunes:duration>
+	</item>
+	<item>
+		<title>098 AlBayyina</title>
+		<link>https://qurancentral.com/fares-abbad-098-al-bayyina/</link>
+		<pubDate>Tue, 31 Dec 2013 22:17:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86215</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-098.mp3" length="2295056" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:36</itunes:duration>
+	</item>
+	<item>
+		<title>099 AzZalzala</title>
+		<link>https://qurancentral.com/fares-abbad-099-az-zalzala/</link>
+		<pubDate>Tue, 31 Dec 2013 22:16:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86216</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-099.mp3" length="1112023" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>46</itunes:duration>
+	</item>
+	<item>
+		<title>100 AlAdiyat</title>
+		<link>https://qurancentral.com/fares-abbad-100-al-adiyat/</link>
+		<pubDate>Tue, 31 Dec 2013 22:15:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86217</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-100.mp3" length="1289444" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>54</itunes:duration>
+	</item>
+	<item>
+		<title>101 AlQaria</title>
+		<link>https://qurancentral.com/fares-abbad-101-al-qaria/</link>
+		<pubDate>Tue, 31 Dec 2013 22:14:25 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86218</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-101.mp3" length="1174086" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>49</itunes:duration>
+	</item>
+	<item>
+		<title>102 AtTakathur</title>
+		<link>https://qurancentral.com/fares-abbad-102-takathur/</link>
+		<pubDate>Tue, 31 Dec 2013 22:13:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86219</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-102.mp3" length="965321" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>40</itunes:duration>
+	</item>
+	<item>
+		<title>103 AlAsr</title>
+		<link>https://qurancentral.com/fares-abbad-103-al-asr/</link>
+		<pubDate>Tue, 31 Dec 2013 22:12:47 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86220</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-103.mp3" length="475672" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>20</itunes:duration>
+	</item>
+	<item>
+		<title>104 AlHumaza</title>
+		<link>https://qurancentral.com/fares-abbad-104-al-humaza/</link>
+		<pubDate>Tue, 31 Dec 2013 22:11:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86221</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-104.mp3" length="962182" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>40</itunes:duration>
+	</item>
+	<item>
+		<title>105 AlFil</title>
+		<link>https://qurancentral.com/fares-abbad-105-al-fil/</link>
+		<pubDate>Tue, 31 Dec 2013 22:10:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86222</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-105.mp3" length="776602" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>32</itunes:duration>
+	</item>
+	<item>
+		<title>106 Quraish</title>
+		<link>https://qurancentral.com/fares-abbad-106-quraish/</link>
+		<pubDate>Tue, 31 Dec 2013 22:09:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86223</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-106.mp3" length="651217" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>27</itunes:duration>
+	</item>
+	<item>
+		<title>107 AlMaun</title>
+		<link>https://qurancentral.com/fares-abbad-107-al-maun/</link>
+		<pubDate>Tue, 31 Dec 2013 22:08:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86224</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-107.mp3" length="798547" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>33</itunes:duration>
+	</item>
+	<item>
+		<title>108 AlKauther</title>
+		<link>https://qurancentral.com/fares-abbad-108-al-kauther/</link>
+		<pubDate>Tue, 31 Dec 2013 22:07:46 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86225</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-108.mp3" length="416748" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>17</itunes:duration>
+	</item>
+	<item>
+		<title>109 AlKafiroon</title>
+		<link>https://qurancentral.com/fares-abbad-109-al-kafiroon/</link>
+		<pubDate>Tue, 31 Dec 2013 22:06:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86226</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-109.mp3" length="880057" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>37</itunes:duration>
+	</item>
+	<item>
+		<title>110 AnNasr</title>
+		<link>https://qurancentral.com/fares-abbad-110-nasr/</link>
+		<pubDate>Tue, 31 Dec 2013 22:05:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86227</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-110.mp3" length="595419" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>25</itunes:duration>
+	</item>
+	<item>
+		<title>111 AlMasadd</title>
+		<link>https://qurancentral.com/fares-abbad-111-al-masadd/</link>
+		<pubDate>Tue, 31 Dec 2013 22:04:21 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86228</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-111.mp3" length="702630" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>29</itunes:duration>
+	</item>
+	<item>
+		<title>112 AlIkhlas</title>
+		<link>https://qurancentral.com/fares-abbad-112-al-ikhlas/</link>
+		<pubDate>Tue, 31 Dec 2013 22:03:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86229</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-112.mp3" length="382264" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>16</itunes:duration>
+	</item>
+	<item>
+		<title>113 AlFalaq</title>
+		<link>https://qurancentral.com/fares-abbad-113-al-falaq/</link>
+		<pubDate>Tue, 31 Dec 2013 22:02:46 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86230</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-113.mp3" length="597929" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>25</itunes:duration>
+	</item>
+	<item>
+		<title>114 AnNas</title>
+		<link>https://qurancentral.com/fares-abbad-114-nas/</link>
+		<pubDate>Tue, 31 Dec 2013 22:01:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=86231</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/fares-abbad/fares-abbad-114.mp3" length="712028" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>30</itunes:duration>
+	</item>
+</channel>
+</rss>

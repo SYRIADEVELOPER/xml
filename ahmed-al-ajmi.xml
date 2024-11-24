@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>Ahmed Al Ajmi</title>
+	<atom:link href="https://rss.qurancentral.com/ahmed-al-ajmi.rss" rel="self" type="application/rss+xml" />
+	<link>https://qurancentral.com/audio/ahmed-al-ajmi/</link>
+	<description>Ahmed Al Ajmi is born in 1968, Ahmed Ibn Ali Ibn Mohammed Al Sulaiman Al Ajmi alias Ahmed Ali Al Ajmi is a Qur’an reciter from Khobar, Saudi Arabia.
+
+He obtained his primary education from &#8216;Al Mohammedia&#8217; primary school, located in the South of Al Khobar. He pursued his high school education in &#8216;Azoubair Ibn Awam&#8217; middle school.
+
+After having graduated from Mohammed Bin Saud Islamic University, he enrolled in the Lahore Public University, Pakistan to acquire a Masters degree and then achieve a Doctorate in Qur’an Interpretation.
+
+He also got his license in the Islamic Sharia at the University of the great Shaykh &#8220;Al-Imam Mohammed Ibn Saoud.
+
+Sheikh Ahmed Ajmi enjoys excellence in the world of recitation. He commenced his Imamate in 1984 in Al Moghira Bin Shouaba Mosque and continued in the Great Mosque of Khobar in 1985. His recruitment as an Imam happened to Al Ahmed Bin Fahd Mosque in Khobar in 1992.
+
+The distinguished excellence of his voice led him to produce several albums such as: &#8220;Wadaânak&#8221;, &#8220;Anashid&#8221; and so on.
+
+The next big step was the advent of big conferences and TV and radio shows in several stations, dealing with subjects pertaining to Islam.
+
+Ahmed Al Ajmi is currently serving as an Imam in Jeddah’s  King Fahd Holy Mosque.</description>
+	<lastBuildDate>Sat, 02 Nov 2024 08:25:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>Blubrry PowerPress/11.10.3</generator>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<podcast:locked>yes</podcast:locked>
+	<itunes:summary>Audio Podcast Publishers</itunes:summary>
+	<itunes:author>Muslim Central</itunes:author>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:image href="https://artwork.qurancentral.com/ahmed-al-ajmi.jpg" />
+	<itunes:owner>
+		<itunes:name>Muslim Central</itunes:name>
+		<itunes:email>podcasts@muslimcentral.com</itunes:email>
+	</itunes:owner>
+	<copyright>Copyright &#xA9; Quran Central</copyright>
+	<podcast:license>Copyright &#xA9; Quran Central</podcast:license>
+	<podcast:medium>podcast</podcast:medium>
+	<itunes:subtitle>Audio Podcast Publishers</itunes:subtitle>
+	<image>
+		<title>Ahmed Al Ajmi</title>
+		<url>https://artwork.qurancentral.com/ahmed-al-ajmi.jpg</url>
+		<link>https://qurancentral.com/audio/ahmed-al-ajmi/</link>
+	</image>
+	<itunes:category text="Religion &amp; Spirituality">
+		<itunes:category text="Islam" />
+	</itunes:category>
+	<googleplay:category text="Religion &amp; Spirituality"/>
+	<itunes:category text="Religion &amp; Spirituality">
+		<itunes:category text="Spirituality" />
+	</itunes:category>
+	<itunes:category text="History" />
+	<podcast:updateFrequency rrule="FREQ=MONTHLY;INTERVAL=1">Monthly</podcast:updateFrequency>
+	<rawvoice:frequency>Monthly</rawvoice:frequency>
+	<rawvoice:donate href="http://donate.muslimcentral.com/">Donate to help cover our running costs and future projects</rawvoice:donate>
+	<podcast:funding url="http://donate.muslimcentral.com/">Donate to help cover our running costs and future projects</podcast:funding>
+	<podcast:podping usesPodping="true" />
+	<podcast:guid>4cbb6107-10d7-5f17-a624-614ab8ce1722</podcast:guid>
+	<rawvoice:subscribe feed="https://rss.qurancentral.com/ahmed-al-ajmi.rss" itunes="https://podcasts.apple.com/podcast/ahmed-al-ajmi/id1071231130" spotify="https://open.spotify.com/show/58L6ai3iLztXedxrhvkKZa"></rawvoice:subscribe>
+	<item>
+		<title>SUPPORT OUR WORK ♥</title>
+		<link>https://qurancentral.com/muslim-central-appeal/</link>
+		<pubDate>Sun, 10 Mar 2024 16:26:51 +0000</pubDate>
+		<guid isPermaLink="false">https://qurancentral.com/?p=157488</guid>
+		<description>If you wish to donate or become a sponsor, please visit https://muslimcentral.com/donate/
+
+
+
+See link above for more information, but here are a few quick points:
+
+
+
+
+Earn on-going rewards
+
+
+
+All our websites, apps and web apps are all FREE
+
+
+
+They also have NO Ads
+
+
+
+Help cover running costs
+
+
+
+Help cover future projects
+
+
+
+
+Shukran for your considersation</description>
+		<content:encoded><![CDATA[<p>If you wish to donate or become a sponsor, please visit <a href="https://muslimcentral.com/donate/" target="_blank" rel="noreferrer noopener">https://muslimcentral.com/donate/</a></p>
+<p>See link above for more information, but here are a few quick points:</p>
+<ul class="wp-block-list">
+<li>Earn on-going rewards</li>
+<li>All our websites, apps and web apps are all FREE</li>
+<li>They also have NO Ads</li>
+<li>Help cover running costs</li>
+<li>Help cover future projects</li>
+</ul>
+<p>Shukran for your considersation</p>
+]]></content:encoded>
+		<enclosure url="https://podcasts.muslimcentral.com/muslim-central-mufti-menk-donation-appeal.mp3" length="962443" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:00</itunes:duration>
+	</item>
+	<item>
+		<title>Fatiha</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-001-al-fatiha/</link>
+		<pubDate>Tue, 31 Dec 2013 23:55:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72011</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-001.mp3" length="864384" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>43</itunes:duration>
+	</item>
+	<item>
+		<title>002 AlBaqara</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-002-al-baqara/</link>
+		<pubDate>Tue, 31 Dec 2013 23:54:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72015</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-002.mp3" length="134099072" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:51:45</itunes:duration>
+	</item>
+	<item>
+		<title>003 AalEImran</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-003-aal-e-imran/</link>
+		<pubDate>Tue, 31 Dec 2013 23:53:35 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72016</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-003.mp3" length="86274176" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:11:53</itunes:duration>
+	</item>
+	<item>
+		<title>004 AnNisa</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-004-al-maeda/</link>
+		<pubDate>Tue, 31 Dec 2013 23:52:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72017</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-004.mp3" length="95668352" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:19:43</itunes:duration>
+	</item>
+	<item>
+		<title>005 AlMaidah</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-005-nisa/</link>
+		<pubDate>Tue, 31 Dec 2013 23:51:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72018</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-005.mp3" length="63830144" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>53:11</itunes:duration>
+	</item>
+	<item>
+		<title>006 AlAnaam</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-006-al-anaam/</link>
+		<pubDate>Tue, 31 Dec 2013 23:50:40 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72019</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-006.mp3" length="68538496" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>57:06</itunes:duration>
+	</item>
+	<item>
+		<title>007 AlAraf</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-007-al-araf/</link>
+		<pubDate>Tue, 31 Dec 2013 23:49:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72020</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-007.mp3" length="71753856" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>59:47</itunes:duration>
+	</item>
+	<item>
+		<title>008 AlAnfal</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-008-al-anfal/</link>
+		<pubDate>Tue, 31 Dec 2013 23:48:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72021</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-008.mp3" length="29573248" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>24:38</itunes:duration>
+	</item>
+	<item>
+		<title>009 AtTawba</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-009-tawba/</link>
+		<pubDate>Tue, 31 Dec 2013 23:47:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72022</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-009.mp3" length="57356416" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>47:47</itunes:duration>
+	</item>
+	<item>
+		<title>010 Yunus</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-010-yunus/</link>
+		<pubDate>Tue, 31 Dec 2013 23:46:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72023</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-010.mp3" length="43321472" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>36:06</itunes:duration>
+	</item>
+	<item>
+		<title>011 Hud</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-011-hud/</link>
+		<pubDate>Tue, 31 Dec 2013 23:45:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72024</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-011.mp3" length="45318272" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>37:45</itunes:duration>
+	</item>
+	<item>
+		<title>012 Yusuf</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-012-yusuf/</link>
+		<pubDate>Tue, 31 Dec 2013 23:44:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72026</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-012.mp3" length="42692736" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>35:34</itunes:duration>
+	</item>
+	<item>
+		<title>013 ArRad</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-013-ar-rad/</link>
+		<pubDate>Tue, 31 Dec 2013 23:43:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72028</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-013.mp3" length="20334720" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>16:56</itunes:duration>
+	</item>
+	<item>
+		<title>014 Ibrahim</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-014-ibrahim/</link>
+		<pubDate>Tue, 31 Dec 2013 23:42:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72029</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-014.mp3" length="20402304" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>17:00</itunes:duration>
+	</item>
+	<item>
+		<title>015 AlHijr</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-015-al-hijr/</link>
+		<pubDate>Tue, 31 Dec 2013 23:41:07 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72031</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-015.mp3" length="20398208" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>16:59</itunes:duration>
+	</item>
+	<item>
+		<title>016 AnNahl</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-016-nahl/</link>
+		<pubDate>Tue, 31 Dec 2013 23:40:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72032</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-016.mp3" length="45424768" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>37:51</itunes:duration>
+	</item>
+	<item>
+		<title>017 AlIsra</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-017-al-isra/</link>
+		<pubDate>Tue, 31 Dec 2013 23:39:28 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72033</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-017.mp3" length="33015936" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>27:30</itunes:duration>
+	</item>
+	<item>
+		<title>018 AlKahf</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-018-al-kahf/</link>
+		<pubDate>Tue, 31 Dec 2013 23:38:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72034</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-018.mp3" length="32456832" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>27:02</itunes:duration>
+	</item>
+	<item>
+		<title>019 Maryam</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-019-maryam/</link>
+		<pubDate>Tue, 31 Dec 2013 23:37:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72035</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-019.mp3" length="21991552" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>18:19</itunes:duration>
+	</item>
+	<item>
+		<title>020 TaHa</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-020-ta-ha/</link>
+		<pubDate>Tue, 31 Dec 2013 23:36:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72036</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-020.mp3" length="29991040" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>24:59</itunes:duration>
+	</item>
+	<item>
+		<title>021 AlAnbiya</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-021-al-anbiya/</link>
+		<pubDate>Tue, 31 Dec 2013 23:35:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72038</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-021.mp3" length="29448320" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>24:32</itunes:duration>
+	</item>
+	<item>
+		<title>022 AlHajj</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-022-al-hajj/</link>
+		<pubDate>Tue, 31 Dec 2013 23:34:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72039</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-022.mp3" length="31207552" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>26:00</itunes:duration>
+	</item>
+	<item>
+		<title>023 AlMumenoon</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-023-al-mumenoon/</link>
+		<pubDate>Tue, 31 Dec 2013 23:33:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72040</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-023.mp3" length="24713344" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>20:35</itunes:duration>
+	</item>
+	<item>
+		<title>024 AnNoor</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-024-noor/</link>
+		<pubDate>Tue, 31 Dec 2013 23:32:18 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72041</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-024.mp3" length="32544896" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>27:07</itunes:duration>
+	</item>
+	<item>
+		<title>025 AlFurqan</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-025-al-furqan/</link>
+		<pubDate>Tue, 31 Dec 2013 23:31:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72042</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-025.mp3" length="20557952" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>17:07</itunes:duration>
+	</item>
+	<item>
+		<title>026 AshShuara</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-026-ash-shuara/</link>
+		<pubDate>Tue, 31 Dec 2013 23:30:18 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72043</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-026.mp3" length="34250880" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>28:32</itunes:duration>
+	</item>
+	<item>
+		<title>027 AnNaml</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-027-naml/</link>
+		<pubDate>Tue, 31 Dec 2013 23:29:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72045</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-027.mp3" length="29433984" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>24:31</itunes:duration>
+	</item>
+	<item>
+		<title>028 AlQasas</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-028-al-qasas/</link>
+		<pubDate>Tue, 31 Dec 2013 23:28:46 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72046</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-028.mp3" length="34205824" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>28:30</itunes:duration>
+	</item>
+	<item>
+		<title>029 AlAnkaboot</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-029-al-ankaboot/</link>
+		<pubDate>Tue, 31 Dec 2013 23:27:28 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72047</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-029.mp3" length="25493632" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>21:14</itunes:duration>
+	</item>
+	<item>
+		<title>030 ArRoom</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-030-ar-room/</link>
+		<pubDate>Tue, 31 Dec 2013 23:26:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72048</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-030.mp3" length="21403776" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>17:50</itunes:duration>
+	</item>
+	<item>
+		<title>031 Luqman</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-031-luqman/</link>
+		<pubDate>Tue, 31 Dec 2013 23:25:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72049</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-031.mp3" length="13105280" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>10:55</itunes:duration>
+	</item>
+	<item>
+		<title>032 AsSajda</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-032-sajda/</link>
+		<pubDate>Tue, 31 Dec 2013 23:24:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72050</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-032.mp3" length="9918592" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>8:15</itunes:duration>
+	</item>
+	<item>
+		<title>033 AlAhzab</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-033-al-ahzab/</link>
+		<pubDate>Tue, 31 Dec 2013 23:23:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72051</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-033.mp3" length="29659264" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>24:42</itunes:duration>
+	</item>
+	<item>
+		<title>034 Saba</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-034-saba/</link>
+		<pubDate>Tue, 31 Dec 2013 23:22:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72053</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-034.mp3" length="20955264" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>17:27</itunes:duration>
+	</item>
+	<item>
+		<title>035 Fatir</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-035-fatir/</link>
+		<pubDate>Tue, 31 Dec 2013 23:21:18 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72054</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-035.mp3" length="17850496" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>14:52</itunes:duration>
+	</item>
+	<item>
+		<title>036 YaSeen</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-036-ya-seen/</link>
+		<pubDate>Tue, 31 Dec 2013 23:20:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72055</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-036.mp3" length="16154752" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>13:27</itunes:duration>
+	</item>
+	<item>
+		<title>037 AsSaaffat</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-037-saaffat/</link>
+		<pubDate>Tue, 31 Dec 2013 23:19:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72056</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-037.mp3" length="22564992" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>18:48</itunes:duration>
+	</item>
+	<item>
+		<title>038 Sad</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-038-sad/</link>
+		<pubDate>Tue, 31 Dec 2013 23:18:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72057</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-038.mp3" length="21569664" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>17:58</itunes:duration>
+	</item>
+	<item>
+		<title>039 AzZumar</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-039-az-zumar/</link>
+		<pubDate>Tue, 31 Dec 2013 23:17:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72058</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-039.mp3" length="32321664" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>26:56</itunes:duration>
+	</item>
+	<item>
+		<title>040 Ghafir</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-040-ghafir/</link>
+		<pubDate>Tue, 31 Dec 2013 23:16:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72059</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-040.mp3" length="30232704" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>25:11</itunes:duration>
+	</item>
+	<item>
+		<title>041 Fussilat</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-041-fussilat/</link>
+		<pubDate>Tue, 31 Dec 2013 23:15:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72061</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-041.mp3" length="19267712" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>16:03</itunes:duration>
+	</item>
+	<item>
+		<title>042 AshShura</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-042-ash-shura/</link>
+		<pubDate>Tue, 31 Dec 2013 23:14:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72062</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-042.mp3" length="19986560" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>16:39</itunes:duration>
+	</item>
+	<item>
+		<title>043 AzZukhruf</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-043-az-zukhruf/</link>
+		<pubDate>Tue, 31 Dec 2013 23:13:06 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72063</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-043.mp3" length="23836800" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>19:51</itunes:duration>
+	</item>
+	<item>
+		<title>044 AdDukhan</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-044-ad-dukhan/</link>
+		<pubDate>Tue, 31 Dec 2013 23:12:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72064</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-044.mp3" length="11526272" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>9:36</itunes:duration>
+	</item>
+	<item>
+		<title>045 AlJathiya</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-045-al-jathiya/</link>
+		<pubDate>Tue, 31 Dec 2013 23:11:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72065</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-045.mp3" length="12222592" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>10:11</itunes:duration>
+	</item>
+	<item>
+		<title>046 AlAhqaf</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-046-al-ahqaf/</link>
+		<pubDate>Tue, 31 Dec 2013 23:10:16 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72067</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-046.mp3" length="17731712" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>14:46</itunes:duration>
+	</item>
+	<item>
+		<title>047 Muhammad</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-047-muhammad/</link>
+		<pubDate>Tue, 31 Dec 2013 23:09:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72070</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-047.mp3" length="14962816" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>12:28</itunes:duration>
+	</item>
+	<item>
+		<title>048 AlFath</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-048-al-fath/</link>
+		<pubDate>Tue, 31 Dec 2013 23:08:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72071</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-048.mp3" length="14155904" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>11:47</itunes:duration>
+	</item>
+	<item>
+		<title>049 AlHujraat</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-049-al-hujraat/</link>
+		<pubDate>Tue, 31 Dec 2013 23:07:27 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72072</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-049.mp3" length="9896064" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>8:14</itunes:duration>
+	</item>
+	<item>
+		<title>050 Qaf</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-050-qaf/</link>
+		<pubDate>Tue, 31 Dec 2013 23:06:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72073</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-050.mp3" length="11669632" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>9:43</itunes:duration>
+	</item>
+	<item>
+		<title>051 AdhDhariyat</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-051-adh-dhariyat/</link>
+		<pubDate>Tue, 31 Dec 2013 23:05:52 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72074</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-051.mp3" length="7821440" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>6:31</itunes:duration>
+	</item>
+	<item>
+		<title>052 AtTur</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-052-tur/</link>
+		<pubDate>Tue, 31 Dec 2013 23:04:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72075</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-052.mp3" length="6994048" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>5:49</itunes:duration>
+	</item>
+	<item>
+		<title>053 AnNajm</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-053-najm/</link>
+		<pubDate>Tue, 31 Dec 2013 23:03:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72076</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-053.mp3" length="7020672" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>5:51</itunes:duration>
+	</item>
+	<item>
+		<title>054 AlQamar</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-054-al-qamar/</link>
+		<pubDate>Tue, 31 Dec 2013 23:02:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72077</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-054.mp3" length="7086208" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>5:54</itunes:duration>
+	</item>
+	<item>
+		<title>055 ArRahman</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-055-ar-rahman/</link>
+		<pubDate>Tue, 31 Dec 2013 23:01:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72078</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-055.mp3" length="9572480" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>7:58</itunes:duration>
+	</item>
+	<item>
+		<title>056 AlWaqia</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-056-al-waqia/</link>
+		<pubDate>Tue, 31 Dec 2013 22:59:21 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72079</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-056.mp3" length="9472128" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>7:53</itunes:duration>
+	</item>
+	<item>
+		<title>057 AlHadid</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-057-al-hadid/</link>
+		<pubDate>Tue, 31 Dec 2013 22:58:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72080</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-057.mp3" length="15233152" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>12:41</itunes:duration>
+	</item>
+	<item>
+		<title>058 AlMujadila</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-058-al-mujadila/</link>
+		<pubDate>Tue, 31 Dec 2013 22:57:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72081</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-058.mp3" length="12980352" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>10:49</itunes:duration>
+	</item>
+	<item>
+		<title>059 AlHashr</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-059-al-hashr/</link>
+		<pubDate>Tue, 31 Dec 2013 22:56:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72082</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-059.mp3" length="13992064" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>11:39</itunes:duration>
+	</item>
+	<item>
+		<title>060 AlMumtahina</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-060-al-mumtahina/</link>
+		<pubDate>Tue, 31 Dec 2013 22:55:16 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72083</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-060.mp3" length="10276992" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>8:33</itunes:duration>
+	</item>
+	<item>
+		<title>061 AsSaff</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-061-saff/</link>
+		<pubDate>Tue, 31 Dec 2013 22:54:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72084</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-061.mp3" length="6000768" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>5:00</itunes:duration>
+	</item>
+	<item>
+		<title>062 AlJumua</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-062-al-jumua/</link>
+		<pubDate>Tue, 31 Dec 2013 22:53:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72085</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-062.mp3" length="5824640" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>4:51</itunes:duration>
+	</item>
+	<item>
+		<title>063 AlMunafiqoon</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-063-al-munafiqoon/</link>
+		<pubDate>Tue, 31 Dec 2013 22:52:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72086</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-063.mp3" length="7096448" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>5:54</itunes:duration>
+	</item>
+	<item>
+		<title>064 AtTaghabun</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-064-taghabun/</link>
+		<pubDate>Tue, 31 Dec 2013 22:51:08 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72087</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-064.mp3" length="7999616" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>6:39</itunes:duration>
+	</item>
+	<item>
+		<title>065 AtTalaq</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-065-talaq/</link>
+		<pubDate>Tue, 31 Dec 2013 22:50:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72088</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-065.mp3" length="8282240" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>6:54</itunes:duration>
+	</item>
+	<item>
+		<title>066 AtTahrim</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-066-tahrim/</link>
+		<pubDate>Tue, 31 Dec 2013 22:49:37 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72089</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-066.mp3" length="8061056" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>6:43</itunes:duration>
+	</item>
+	<item>
+		<title>067 AlMulk</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-067-al-mulk/</link>
+		<pubDate>Tue, 31 Dec 2013 22:48:20 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72090</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-067.mp3" length="9547904" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>7:57</itunes:duration>
+	</item>
+	<item>
+		<title>068 AlQalam</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-068-al-qalam/</link>
+		<pubDate>Tue, 31 Dec 2013 22:47:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72091</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-068.mp3" length="9420928" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>7:51</itunes:duration>
+	</item>
+	<item>
+		<title>069 AlHaaqqa</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-069-al-haaqqa/</link>
+		<pubDate>Tue, 31 Dec 2013 22:46:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72092</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-069.mp3" length="9898112" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>8:14</itunes:duration>
+	</item>
+	<item>
+		<title>070 AlMaarij</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-070-al-maarij/</link>
+		<pubDate>Tue, 31 Dec 2013 22:45:25 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72093</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-070.mp3" length="8525952" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>7:06</itunes:duration>
+	</item>
+	<item>
+		<title>071 Nooh</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-071-nooh/</link>
+		<pubDate>Tue, 31 Dec 2013 22:44:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72094</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-071.mp3" length="6287488" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>5:14</itunes:duration>
+	</item>
+	<item>
+		<title>072 AlJinn</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-072-al-jinn/</link>
+		<pubDate>Tue, 31 Dec 2013 22:43:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72095</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-072.mp3" length="7651456" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>6:22</itunes:duration>
+	</item>
+	<item>
+		<title>073 AlMuzzammil</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-073-al-muzzammil/</link>
+		<pubDate>Tue, 31 Dec 2013 22:42:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72096</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-073.mp3" length="6307968" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>5:15</itunes:duration>
+	</item>
+	<item>
+		<title>074 AlMuddaththir</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-074-al-muddaththir/</link>
+		<pubDate>Tue, 31 Dec 2013 22:41:30 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72097</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-074.mp3" length="9492608" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>7:54</itunes:duration>
+	</item>
+	<item>
+		<title>075 AlQiyama</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-075-al-qiyama/</link>
+		<pubDate>Tue, 31 Dec 2013 22:40:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72098</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-075.mp3" length="5089408" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>4:14</itunes:duration>
+	</item>
+	<item>
+		<title>076 AlInsan</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-076-al-insan/</link>
+		<pubDate>Tue, 31 Dec 2013 22:39:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72099</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-076.mp3" length="8138880" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>6:46</itunes:duration>
+	</item>
+	<item>
+		<title>077 AlMursalat</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-077-al-mursalat/</link>
+		<pubDate>Tue, 31 Dec 2013 22:38:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72100</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-077.mp3" length="5245056" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>4:22</itunes:duration>
+	</item>
+	<item>
+		<title>078 AnNaba</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-078-naba/</link>
+		<pubDate>Tue, 31 Dec 2013 22:37:28 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72101</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-078.mp3" length="5378176" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>4:28</itunes:duration>
+	</item>
+	<item>
+		<title>079 AnNaziat</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-079-naziat/</link>
+		<pubDate>Tue, 31 Dec 2013 22:36:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72102</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-079.mp3" length="4331648" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>3:36</itunes:duration>
+	</item>
+	<item>
+		<title>080 Abasa</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-080-abasa/</link>
+		<pubDate>Tue, 31 Dec 2013 22:35:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72103</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-080.mp3" length="3354752" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>2:47</itunes:duration>
+	</item>
+	<item>
+		<title>081 AtTakwir</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-081-takwir/</link>
+		<pubDate>Tue, 31 Dec 2013 22:34:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72105</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-081.mp3" length="2310272" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:55</itunes:duration>
+	</item>
+	<item>
+		<title>082 AlInfitar</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-082-al-infitar/</link>
+		<pubDate>Tue, 31 Dec 2013 22:33:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72106</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-082.mp3" length="1888384" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:34</itunes:duration>
+	</item>
+	<item>
+		<title>083 AlMutaffifin</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-083-al-mutaffifin/</link>
+		<pubDate>Tue, 31 Dec 2013 22:32:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72107</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-083.mp3" length="4255872" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>3:32</itunes:duration>
+	</item>
+	<item>
+		<title>084 AlInshiqaq</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-084-al-inshiqaq/</link>
+		<pubDate>Tue, 31 Dec 2013 22:31:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72108</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-084.mp3" length="2666624" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>2:13</itunes:duration>
+	</item>
+	<item>
+		<title>085 AlBurooj</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-085-al-burooj/</link>
+		<pubDate>Tue, 31 Dec 2013 22:30:07 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72109</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-085.mp3" length="2852992" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>2:22</itunes:duration>
+	</item>
+	<item>
+		<title>086 AtTariq</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-086-tariq/</link>
+		<pubDate>Tue, 31 Dec 2013 22:29:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72110</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-086.mp3" length="1478784" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:13</itunes:duration>
+	</item>
+	<item>
+		<title>087 AlAla</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-087-al-ala/</link>
+		<pubDate>Tue, 31 Dec 2013 22:28:47 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72111</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-087.mp3" length="1613952" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:20</itunes:duration>
+	</item>
+	<item>
+		<title>088 AlGhashiya</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-088-al-ghashiya/</link>
+		<pubDate>Tue, 31 Dec 2013 22:27:35 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72112</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-088.mp3" length="2547840" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>2:07</itunes:duration>
+	</item>
+	<item>
+		<title>089 AlFajr</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-089-al-fajr/</link>
+		<pubDate>Tue, 31 Dec 2013 22:26:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72113</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-089.mp3" length="3244160" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>2:42</itunes:duration>
+	</item>
+	<item>
+		<title>090 AlBalad</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-090-al-balad/</link>
+		<pubDate>Tue, 31 Dec 2013 22:25:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72114</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-090.mp3" length="1747072" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:27</itunes:duration>
+	</item>
+	<item>
+		<title>091 AshShams</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-091-ash-shams/</link>
+		<pubDate>Tue, 31 Dec 2013 22:24:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72115</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-091.mp3" length="1302656" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:05</itunes:duration>
+	</item>
+	<item>
+		<title>092 AlLail</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-092-al-lail/</link>
+		<pubDate>Tue, 31 Dec 2013 22:23:21 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72116</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-092.mp3" length="1652864" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:22</itunes:duration>
+	</item>
+	<item>
+		<title>093 AdDhuha</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-093-ad-dhuha/</link>
+		<pubDate>Tue, 31 Dec 2013 22:22:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72117</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-093.mp3" length="964736" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>48</itunes:duration>
+	</item>
+	<item>
+		<title>094 AlInshirah</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-094-al-inshirah/</link>
+		<pubDate>Tue, 31 Dec 2013 22:21:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72118</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-094.mp3" length="542848" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>27</itunes:duration>
+	</item>
+	<item>
+		<title>095 AtTin</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-095-tin/</link>
+		<pubDate>Tue, 31 Dec 2013 22:20:25 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72119</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-095.mp3" length="809088" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>40</itunes:duration>
+	</item>
+	<item>
+		<title>096 AlAlaq</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-096-al-alaq/</link>
+		<pubDate>Tue, 31 Dec 2013 22:19:07 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72120</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-096.mp3" length="1403008" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:10</itunes:duration>
+	</item>
+	<item>
+		<title>097 AlQadr</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-097-al-qadr/</link>
+		<pubDate>Tue, 31 Dec 2013 22:18:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72121</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-097.mp3" length="671872" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>33</itunes:duration>
+	</item>
+	<item>
+		<title>098 AlBayyina</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-098-al-bayyina/</link>
+		<pubDate>Tue, 31 Dec 2013 22:17:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72122</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-098.mp3" length="2142336" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:47</itunes:duration>
+	</item>
+	<item>
+		<title>099 AzZalzala</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-099-az-zalzala/</link>
+		<pubDate>Tue, 31 Dec 2013 22:16:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72123</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-099.mp3" length="800896" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>40</itunes:duration>
+	</item>
+	<item>
+		<title>100 AlAdiyat</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-100-al-adiyat/</link>
+		<pubDate>Tue, 31 Dec 2013 22:15:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72124</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-100.mp3" length="962688" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>48</itunes:duration>
+	</item>
+	<item>
+		<title>101 AlQaria</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-101-al-qaria/</link>
+		<pubDate>Tue, 31 Dec 2013 22:14:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72125</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-101.mp3" length="862336" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>43</itunes:duration>
+	</item>
+	<item>
+		<title>102 AtTakathur</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-102-takathur/</link>
+		<pubDate>Tue, 31 Dec 2013 22:13:35 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72126</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-102.mp3" length="733312" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>36</itunes:duration>
+	</item>
+	<item>
+		<title>103 AlAsr</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-103-al-asr/</link>
+		<pubDate>Tue, 31 Dec 2013 22:12:21 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72127</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-103.mp3" length="323712" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>16</itunes:duration>
+	</item>
+	<item>
+		<title>104 AlHumaza</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-104-al-humaza/</link>
+		<pubDate>Tue, 31 Dec 2013 22:11:02 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72128</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-104.mp3" length="727168" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>36</itunes:duration>
+	</item>
+	<item>
+		<title>105 AlFil</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-105-al-fil/</link>
+		<pubDate>Tue, 31 Dec 2013 22:10:42 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72129</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-105.mp3" length="540800" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>27</itunes:duration>
+	</item>
+	<item>
+		<title>106 Quraish</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-106-quraish/</link>
+		<pubDate>Tue, 31 Dec 2013 22:09:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72130</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-106.mp3" length="411776" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>20</itunes:duration>
+	</item>
+	<item>
+		<title>107 AlMaun</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-107-al-maun/</link>
+		<pubDate>Tue, 31 Dec 2013 22:08:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72131</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-107.mp3" length="571520" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>28</itunes:duration>
+	</item>
+	<item>
+		<title>108 AlKauther</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-108-al-kauther/</link>
+		<pubDate>Tue, 31 Dec 2013 22:07:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72132</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-108.mp3" length="249984" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>12</itunes:duration>
+	</item>
+	<item>
+		<title>109 AlKafiroon</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-109-al-kafiroon/</link>
+		<pubDate>Tue, 31 Dec 2013 22:06:30 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72133</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-109.mp3" length="669824" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>33</itunes:duration>
+	</item>
+	<item>
+		<title>110 AnNasr</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-110-nasr/</link>
+		<pubDate>Tue, 31 Dec 2013 22:05:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72134</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-110.mp3" length="405632" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>20</itunes:duration>
+	</item>
+	<item>
+		<title>111 AlMasadd</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-111-al-masadd/</link>
+		<pubDate>Tue, 31 Dec 2013 22:04:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72135</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-111.mp3" length="471168" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>23</itunes:duration>
+	</item>
+	<item>
+		<title>112 AlIkhlas</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-112-al-ikhlas/</link>
+		<pubDate>Tue, 31 Dec 2013 22:03:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72136</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-112.mp3" length="219264" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>10</itunes:duration>
+	</item>
+	<item>
+		<title>113 AlFalaq</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-113-al-falaq/</link>
+		<pubDate>Tue, 31 Dec 2013 22:02:21 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72137</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-113.mp3" length="393344" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>19</itunes:duration>
+	</item>
+	<item>
+		<title>114 AnNas</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-114-nas/</link>
+		<pubDate>Tue, 31 Dec 2013 22:01:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72138</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-114.mp3" length="452736" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>22</itunes:duration>
+	</item>
+	<item>
+		<title>Khatam Dua</title>
+		<link>https://qurancentral.com/ahmed-al-ajmi-khatam-dua/</link>
+		<pubDate>Sun, 27 Oct 2013 19:59:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.muslimcentralmedia.com/?post_type=quran-recitations&#038;p=72139</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://podcasts.qurancentral.com/ahmed-al-ajmi/ahmed-al-ajmi-dua.mp3" length="27936230" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>23:17</itunes:duration>
+	</item>
+</channel>
+</rss>
